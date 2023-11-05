@@ -3,4 +3,4 @@ defaultPackage: com.empyrean.micronaut.arrow
 testFramework: junit
 sourceLanguage: java
 buildTool: gradle_kotlin
-features: [app-name, gradle, http-client-test, java, java-application, junit, logback, micronaut-aot, micronaut-build, micronaut-http-validation, netty-server, openapi, properties, readme, serialization-jackson, shade]
+features: [app-name, gradle, http-client-test, java, java-application, junit, logback, micronaut-aot, micronaut-build, micronaut-http-validation, netty-server, openapi, readme, serialization-jackson, shade, yaml, yaml-build]

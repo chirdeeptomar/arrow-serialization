@@ -22,6 +22,7 @@ dependencies {
     implementation("io.swagger.core.v3:swagger-annotations")
     compileOnly("io.micronaut:micronaut-http-client")
     runtimeOnly("ch.qos.logback:logback-classic")
+    runtimeOnly("org.yaml:snakeyaml")
     testImplementation("io.micronaut:micronaut-http-client")
 }
 
